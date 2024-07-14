@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 659 364">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 11px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #000;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: Helvetica-Bold, Helvetica;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        stroke: #888;
+      }
+
+      .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        fill: none;
+      }
+
+      .cls-6, .cls-8, .cls-9, .cls-10 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        font-size: 10px;
+      }
+
+      .cls-2, .cls-5 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .cls-7, .cls-4, .cls-11 {
+        stroke-width: 0px;
+      }
+
+      .cls-8, .cls-9 {
+        stroke: #ddd;
+      }
+
+      .cls-3 {
+        font-size: 18px;
+      }
+
+      .cls-9, .cls-4 {
+        display: none;
+      }
+
+      .cls-10 {
+        stroke: #4c78a8;
+        stroke-width: 2px;
+      }
+
+      .cls-11 {
+        fill: #f2f2f4;
+      }
+
+      .cls-5 {
+        font-size: 10.1px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-11" width="659" height="364"/>
+  <path class="cls-7" d="M53.5,327.5h0Z" pointer-events="none"/>
+  <line class="cls-8" x1="53.5" y1="27.5" x2="53.5" y2="327.5"/>
+  <line class="cls-8" x1="653.5" y1="27.5" x2="653.5" y2="327.5"/>
+  <path class="cls-9" d="M53.5,327.5" pointer-events="none"/>
+  <path class="cls-7" d="M53.5,27.5h0Z" pointer-events="none"/>
+  <line class="cls-8" x1="53.5" y1="327.5" x2="653.5" y2="327.5"/>
+  <path class="cls-9" d="M53.5,27.5" pointer-events="none"/>
+  <path class="cls-7" d="M53.5,327.5h0Z" pointer-events="none"/>
+  <line class="cls-6" x1="53.5" y1="327.5" x2="53.5" y2="332.5"/>
+  <line class="cls-6" x1="99.5" y1="327.5" x2="99.5" y2="332.5"/>
+  <line class="cls-6" x1="145.5" y1="327.5" x2="145.5" y2="332.5"/>
+  <line class="cls-6" x1="191.5" y1="327.5" x2="191.5" y2="332.5"/>
+  <line class="cls-6" x1="238.5" y1="327.5" x2="238.5" y2="332.5"/>
+  <line class="cls-6" x1="284.5" y1="327.5" x2="284.5" y2="332.5"/>
+  <line class="cls-6" x1="330.5" y1="327.5" x2="330.5" y2="332.5"/>
+  <line class="cls-6" x1="376.5" y1="327.5" x2="376.5" y2="332.5"/>
+  <line class="cls-6" x1="422.5" y1="327.5" x2="422.5" y2="332.5"/>
+  <line class="cls-6" x1="468.5" y1="327.5" x2="468.5" y2="332.5"/>
+  <line class="cls-6" x1="515.5" y1="327.5" x2="515.5" y2="332.5"/>
+  <line class="cls-6" x1="561.5" y1="327.5" x2="561.5" y2="332.5"/>
+  <line class="cls-6" x1="607.5" y1="327.5" x2="607.5" y2="332.5"/>
+  <line class="cls-6" x1="653.5" y1="327.5" x2="653.5" y2="332.5"/>
+  <text class="cls-2" transform="translate(53.5 342.5)"><tspan x="0" y="0">1880</tspan></text>
+  <text class="cls-2" transform="translate(87.1 342.5)"><tspan x="0" y="0">1890</tspan></text>
+  <text class="cls-2" transform="translate(133.3 342.5)"><tspan x="0" y="0">1900</tspan></text>
+  <text class="cls-2" transform="translate(179.4 342.5)"><tspan x="0" y="0">1910</tspan></text>
+  <text class="cls-2" transform="translate(225.6 342.5)"><tspan x="0" y="0">1920</tspan></text>
+  <text class="cls-2" transform="translate(271.8 342.5)"><tspan x="0" y="0">1930</tspan></text>
+  <text class="cls-5" transform="translate(317.9 342.5)"><tspan x="0" y="0">1940</tspan></text>
+  <text class="cls-2" transform="translate(364.1 342.5)"><tspan x="0" y="0">1950</tspan></text>
+  <text class="cls-2" transform="translate(410.2 342.5)"><tspan x="0" y="0">1960</tspan></text>
+  <text class="cls-2" transform="translate(456.4 342.5)"><tspan x="0" y="0">1970</tspan></text>
+  <text class="cls-2" transform="translate(502.5 342.5)"><tspan x="0" y="0">1980</tspan></text>
+  <text class="cls-2" transform="translate(548.7 342.5)"><tspan x="0" y="0">1990</tspan></text>
+  <text class="cls-2" transform="translate(594.8 342.5)"><tspan x="0" y="0">2000</tspan></text>
+  <text class="cls-2" transform="translate(628.5 342.5)"><tspan x="0" y="0">2010</tspan></text>
+  <line class="cls-6" x1="53.5" y1="327.5" x2="653.5" y2="327.5"/>
+  <text class="cls-1" transform="translate(341.9 357.5)"><tspan x="0" y="0">Year</tspan></text>
+  <path class="cls-4" d="M53.5,327.5" pointer-events="none"/>
+  <path class="cls-7" d="M53.5,27.5h0Z" pointer-events="none"/>
+  <line class="cls-6" x1="53.5" y1="327.5" x2="48.5" y2="327.5"/>
+  <line class="cls-6" x1="53.5" y1="277.5" x2="48.5" y2="277.5"/>
+  <line class="cls-6" x1="53.5" y1="227.5" x2="48.5" y2="227.5"/>
+  <line class="cls-6" x1="53.5" y1="177.5" x2="48.5" y2="177.5"/>
+  <line class="cls-6" x1="53.5" y1="127.5" x2="48.5" y2="127.5"/>
+  <line class="cls-6" x1="53.5" y1="77.5" x2="48.5" y2="77.5"/>
+  <line class="cls-6" x1="53.5" y1="27.5" x2="48.5" y2="27.5"/>
+  <text class="cls-2" transform="translate(40.9 330.5)"><tspan x="0" y="0">0</tspan></text>
+  <text class="cls-2" transform="translate(29.8 280.5)"><tspan x="0" y="0">200</tspan></text>
+  <text class="cls-2" transform="translate(29.8 230.5)"><tspan x="0" y="0">400</tspan></text>
+  <text class="cls-2" transform="translate(29.8 180.5)"><tspan x="0" y="0">600</tspan></text>
+  <text class="cls-2" transform="translate(29.8 130.5)"><tspan x="0" y="0">800</tspan></text>
+  <text class="cls-2" transform="translate(21.5 80.5)"><tspan x="0" y="0">1,000</tspan></text>
+  <text class="cls-2" transform="translate(21.5 30.5)"><tspan x="0" y="0">1,200</tspan></text>
+  <line class="cls-6" x1="53.5" y1="327.5" x2="53.5" y2="27.5"/>
+  <text class="cls-1" transform="translate(15.5 193.4) rotate(-90)"><tspan x="0" y="0">Count</tspan></text>
+  <path class="cls-4" d="M53.5,27.5" pointer-events="none"/>
+  <path class="cls-10" d="M53,320.8l4.6,1.2,4.6,1.5,4.6-2.5,4.6-3.2,4.6,2.5,4.6,1,4.6-1h4.6l4.6,1.2,4.6-2.2,4.6,3.2,4.6-1.5,4.6,1,4.6-1.2,4.6.8,4.6-1.2,4.6,1,4.6-1.5,4.6-.2,4.6-3.8,4.6,6,4.6-3.5,4.6,4.2,4.6-1.5,4.6-3,4.6,1,4.6-1.5,4.6,1,4.6-3,4.6-1.5,4.6,3.8,4.6,8v-18l4.6-4.2,4.6-8.8,4.6-9.5,4.6-13.5,4.6.2,4.6,53.5v-61.2l4.6-4.5,4.6,65.5v-80.5l4.6-5,4.6-3.5,4.6,3.2,4.6-23,4.6,108.5v-139l4.6-21.5,4.6-31.2,4.6-14.8,4.6,207.2V116.5l4.6,209V92l4.6,233.5V79l4.6-15.2,4.6,262V65.8l4.6-21.5,4.6,9.5,4.6,1.2,4.6,20,4.6,18,4.6,14.8,4.6-8.5,4.6,4.5,4.6,7.8,4.6,1.8,4.6,11.8,4.6,12.5,4.6-17.5,4.6,18.2,4.6,50.8,4.6,53,4.6,17.8,4.6,5.8,4.6,7.8h4.6l4.6,12,4.6-3.8,4.6-2.5,4.6-2.2,4.6-8.2,4.6,3.8,4.6,8.2,4.6,1.2,4.6,8.2,4.6,4.8,4.6,4.8,4.6,2.8,4.6,8.5,4.6-2.2,4.6,3,4.6,1.2,4.6,1.2,4.6,3.5,4.6,2.2,4.6-1.5,4.6.5,4.6,2.5,4.6.5,4.6.5,4.6-.5,4.6,1,4.6-.8,4.6,2.8,4.6-2,4.6-.5,4.6,2,4.6-.5,4.6.8,4.6-.5,9.2.5h4.6l9.2,1.2,4.6-.2h41.5l13.8.2"/>
+  <path class="cls-7" d="M353,5h0Z" pointer-events="none"/>
+  <text class="cls-3" transform="translate(204 20.9) scale(.8 1)"><tspan x="0" y="0">Popularity of the Name &quot;Dick&quot; </tspan></text>
+  <path class="cls-4" d="M353,5" pointer-events="none"/>
+  <path class="cls-4" d="M53,27"/>
+  <text/>
+</svg>
